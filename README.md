@@ -1,2 +1,2 @@
 # Movie-exploration-system
-The syste
+The system acts a ratings generator using live twitter feed to evaluate the rating of a movie as well as a recommendation engine to recommend movies to the users based a dataset.
